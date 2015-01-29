@@ -72,7 +72,7 @@ class Sm_Admin_Views {
                        	   array (	
                                'name' => 'Lizatom shortcodes',
                                'demo' => 'https://lizatom.com/demo/lizatom-shortcodes/',
-                               'download_url' => 'https://lizatom.com/club/',
+                               'download_url' => 'https://lizatom.com/lizatom-wordpress-shortcodes-plugin/',
                                'slug' => 'shortcodes-master-lizatom'
                            ),
                            array (
@@ -94,17 +94,17 @@ class Sm_Admin_Views {
                                'slug' => 'shortcodes-master-gmaps-colorized'
                            ),
                            array (
-                               'name' => 'Coming soon: WC featured products carousel',
+                               'name' => 'WC featured products carousel',
                                'demo' =>
                                'https://lizatom.com/woocommerce-shortcodes/#woocommerce-featured-products-carousel',
-                               'download_url' => 'https://lizatom.com/',
+                               'download_url' => 'https://lizatom.com/wordpress-woocommerce-carousel',
                                'slug' => 'shortcodes-master-wcfpc'
                            ),
                            array (
-                               'name' => 'Coming soon: WC featured products slider',
+                               'name' => 'WC featured products slider',
                                'demo' =>
                                'https://lizatom.com/woocommerce-shortcodes/#woocommerce-featured-products-slider',
-                               'download_url' => 'https://lizatom.com/',
+                               'download_url' => 'https://lizatom.com/wordpress-woocommerce-slider',
                                'slug' => 'shortcodes-master-wcfps'
                            )
                        ); ?>
