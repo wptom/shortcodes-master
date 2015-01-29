@@ -2,7 +2,7 @@
 /*
   Plugin Name: Shortcodes Master
   Plugin URI: https://lizatom.com/wordpress-shortcodes-plugin/
-  Version: 0.9.0.2
+  Version: 0.9.0.3
   Author: Lizatom.com
   Author URI: https://lizatom.com/
   Description: The core plugin for WordPress shortcodes.
@@ -13,7 +13,7 @@
 
 // Define plugin constants
 define( 'SM_PLUGIN_FILE', __FILE__ );
-define( 'SM_PLUGIN_VERSION', '0.9.0.2' );
+define( 'SM_PLUGIN_VERSION', '0.9.0.3' );
 define( 'SM_ENABLE_CACHE', true );
 
 // Includes
