@@ -50,6 +50,11 @@ Activate plugin at "Plugins" administration page.
 Changelog
 ---------
 
+0.9.0.3
+
+* Woocommerce featured products slider has been released
+* Woocommerce featured products carousel has been released
+
 0.9.0.2
 
 * Animated service boxes add-on has been released
