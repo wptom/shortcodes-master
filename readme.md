@@ -10,7 +10,7 @@ Add-ons
 
 * [Lizatom Shortcodes](https://lizatom.com/lizatom-wordpress-shortcodes-plugin/) - Set of various shortcodes by Lizatom
 * [Flat Shortcodes](https://lizatom.com/wordpress-flat-design) - Flat design web elements for WordPress
-* [Animated service boxes](https://lizatom.com/animated-service-box-shortcodes) - Flat design web elements for WordPress
+* [Animated service boxes](https://lizatom.com/animated-service-box-shortcodes) - Animated boxes with icons by ElegantThemes and Font Awesome
 * [Woocommerce carousel](https://lizatom.com/wordpress-woocommerce-carousel) - Woocommerce featured products carousel
 * [Woocommerce slider](https://lizatom.com/wordpress-woocommerce-slider) - Woocommerce featured products slider
 
