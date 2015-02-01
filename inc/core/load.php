@@ -95,7 +95,22 @@ class Shortcodes_Master {
 					),
 					array(
 						'type' => 'closetab'
-					)
+					),
+					array(
+						'type' => 'opentab',
+						'name' => __( 'Misc', 'sm' )
+					),
+					array(
+						'type'     => 'text',
+						'id'       => 'googlemapsv3_api_key',
+						'name'    => __( 'Google maps API v3 key', 'sm' ),
+						'desc'    => sprintf( __( 'If you are using an addon that requires the key. Get your key %s', 'sm' ), '<a href="https://developers.google.com/maps/documentation/javascript/tutorial#api_key" target="blank">here</a>' ),
+						'default'  => '',
+						'callback' => array( 'Sm_Admin_Views', 'googlemapsv3_api_key' )
+					),
+					array(
+						'type' => 'closetab'
+					),
 				)
 			) );
 		// Settings submenu
