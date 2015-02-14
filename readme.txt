@@ -52,6 +52,12 @@ Activate plugin at "Plugins" administration page.
 Changelog
 ---------
 
+0.9.0.4
+
+* Misc. settings tab added
+* Google maps API v3 key field added
+* Google maps colorized add-on has been released
+
 0.9.0.3
 
 * Woocommerce featured products slider has been released
