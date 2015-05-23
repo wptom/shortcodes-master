@@ -88,7 +88,7 @@ class Sm_Generator {
 				) );
 
 			// Add add-ons links
-			if ( !sm_addon_active( 'maker' ) || !sm_addon_active( 'skins' ) || !sm_addon_active( 'extra' ) ) $tools[] = '<a href="https://lizatom.com/club/" target="_blank" title="' . __( 'Add-ons', 'sm' ) . '" class="sm-add-ons">' . __( 'Add-ons', 'sm' ) . '</a>';
+			if ( !sm_addon_active( 'maker' ) || !sm_addon_active( 'skins' ) || !sm_addon_active( 'extra' ) ) $tools[] = '<a href="https://lizatom.com/club#shortcodes-master-addons" target="_blank" title="' . __( 'Add-ons', 'sm' ) . '" class="sm-add-ons">' . __( 'Add-ons', 'sm' ) . '</a>';
 ?>
 		<div id="sm-generator-wrap" style="display:none">		
 			<div id="sm-generator">			
